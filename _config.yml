@@ -1,9 +1,9 @@
 # Setup
 title: Blart
 tagline: A cozy place for art, comics, and other stuff
-url: https://noir.essentialenemy.com
+url: "reccanti.github.io"
 paginate: 1
-baseurl: ""
+baseurl: "/BlartBlog"
 permalink: :title/
 
 kramdown:
@@ -42,6 +42,6 @@ author:
   email: nope!
 
 # Custom vars
-version: 1.3.0
+version: 1.0.0
 github:
-  repo: https://github.com/essentialenemy/noir
+  repo: https://github.com/reccanti/BlartBlog
