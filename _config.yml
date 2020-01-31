@@ -1,6 +1,6 @@
 # Setup
-title: Noir
-tagline: a dark mode friendly Jekyll theme
+title: Blart
+tagline: A cozy place for art, comics, and other stuff
 url: https://noir.essentialenemy.com
 paginate: 1
 baseurl: ""
@@ -37,9 +37,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Victor Johnson
-  url: https://twitter.com/essentialenemy
-  email: me@essentialenemy.com
+  name: Blair Wilcox
+  url: https://twitter.com/hiitsblair
+  email: nope!
 
 # Custom vars
 version: 1.3.0
